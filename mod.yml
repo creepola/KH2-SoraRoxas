@@ -346,6 +346,24 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-2.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-0.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-1.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-2.dds
 - name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
   method: copy
   platform: pc
@@ -370,6 +388,24 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_MAGF.mdlx\-2.dds
+- name: remastered\obj\P_EX100_MEMO.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-0.dds
+- name: remastered\obj\P_EX100_MEMO.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-1.dds
+- name: remastered\obj\P_EX100_MEMO.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-2.dds
 - name: remastered\obj\P_EX100_NPC.mdlx\-0.dds
   method: copy
   platform: pc
