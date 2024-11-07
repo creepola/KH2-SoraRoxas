@@ -1,6 +1,6 @@
-title: SoraRoxasv3 (KH2PCPATCH)
-originalAuthor: Creepola
-description: Based off of Nomura's KH chi Anniversary art. This mod brings that to life.
+title: SoraRoxasv3_2 (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
 game: kh2
 dependencies: 
 assets:
@@ -106,18 +106,30 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\H_EX500_ULTF.mdlx
+- name: obj\PO06_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\PO06_PLAYER.mdlx
+- name: obj\PO07_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\PO07_PLAYER.mdlx
+- name: obj\PO08_PLAYER.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\PO08_PLAYER.mdlx
 - name: obj\P_EX100.mdlx
   method: copy
   platform: pc
   package: kh2_sixth
   source:
   - name: obj\P_EX100.mdlx
-- name: obj\P_EX100.mset
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: obj\P_EX100.mset
 - name: obj\P_EX100_AL_CARPET.mdlx
   method: copy
   platform: pc
@@ -364,6 +376,132 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\H_EX500_ULTF.mdlx\-5.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-0.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-1.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-2.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-3.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-4.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-5.dds
+- name: remastered\obj\P006_PLAYER.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P006_PLAYER.mdlx\-6.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-0.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-1.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-2.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-3.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-4.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-5.dds
+- name: remastered\obj\P007_PLAYER.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P007_PLAYER.mdlx\-6.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-0.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-1.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-2.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-3.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-4.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-5.dds
+- name: remastered\obj\P008_PLAYER.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P008_PLAYER.mdlx\-6.dds
 - name: remastered\obj\P_EX100.a.us\-0.dds
   method: copy
   platform: pc
@@ -448,6 +586,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100.mdlx\-4.dds
+- name: remastered\obj\P_EX100.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-5.dds
+- name: remastered\obj\P_EX100.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-6.dds
 - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
   method: copy
   platform: pc
@@ -484,6 +634,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_BTLF.mdlx\-4.dds
+- name: remastered\obj\P_EX100_BTLF.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.mdlx\-5.dds
+- name: remastered\obj\P_EX100_BTLF.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_BTLF.mdlx\-6.dds
 - name: remastered\obj\P_EX100_HTLF.BTL.mdlx\-0.dds
   method: copy
   platform: pc
@@ -580,6 +742,36 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_LAST.mdlx\-2.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-3.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-4.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-5.dds
+- name: remastered\obj\P_EX100_LAST.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_LAST.mdlx\-6.dds
+- name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
 - name: remastered\obj\P_EX100_MAGF.mdlx\-0.dds
   method: copy
   platform: pc
@@ -610,6 +802,18 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_MAGF.mdlx\-4.dds
+- name: remastered\obj\P_EX100_MAGF.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MAGF.mdlx\-5.dds
+- name: remastered\obj\P_EX100_MAGF.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_MAGF.mdlx\-6.dds
 - name: remastered\obj\P_EX100_MEMO.mdlx\-0.dds
   method: copy
   platform: pc
@@ -658,6 +862,24 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_NPC.mdlx\-4.dds
+- name: remastered\obj\P_EX100_NPC.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_NPC.mdlx\-5.dds
+- name: remastered\obj\P_EX100_NPC.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_NPC.mdlx\-6.dds
+- name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
 - name: remastered\obj\P_EX100_TRIF.mdlx\-0.dds
   method: copy
   platform: pc
@@ -688,6 +910,24 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_TRIF.mdlx\-4.dds
+- name: remastered\obj\P_EX100_TRIF.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.mdlx\-5.dds
+- name: remastered\obj\P_EX100_TRIF.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_TRIF.mdlx\-6.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
 - name: remastered\obj\P_EX100_ULTF.mdlx\-0.dds
   method: copy
   platform: pc
@@ -718,3 +958,15 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_ULTF.mdlx\-4.dds
+- name: remastered\obj\P_EX100_ULTF.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.mdlx\-5.dds
+- name: remastered\obj\P_EX100_ULTF.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_ULTF.mdlx\-6.dds
