@@ -598,6 +598,48 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100.mdlx\-6.dds
+- name: remastered\obj\P_EX100_AL_CARPET.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-0.dds
+- name: remastered\obj\P_EX100_AL_CARPET.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-1.dds
+ - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-2.dds
+- name: remastered\obj\P_EX100_AL_CARPET.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-3.dds
+- name: remastered\obj\P_EX100_AL_CARPET.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-4.dds
+- name: remastered\obj\P_EX100_AL_CARPET.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-5.dds
+- name: remastered\obj\P_EX100_AL_CARPET.mdlx\-6.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-6.dds
 - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
   method: copy
   platform: pc
