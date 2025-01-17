@@ -502,54 +502,6 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P008_PLAYER.mdlx\-6.dds
-- name: remastered\obj\P_EX100.a.us\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-0.dds
-- name: remastered\obj\P_EX100.a.us\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-1.dds
-- name: remastered\obj\P_EX100.a.us\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-2.dds
-- name: remastered\obj\P_EX100.a.us\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-3.dds
-- name: remastered\obj\P_EX100.a.us\-4.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-4.dds
-- name: remastered\obj\P_EX100.a.us\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-5.dds
-- name: remastered\obj\P_EX100.a.us\-6.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-6.dds
-- name: remastered\obj\P_EX100.a.us\-7.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100.a.us\-7.dds
 - name: remastered\obj\P_EX100.a.us\-8.dds
   method: copy
   platform: pc
@@ -694,36 +646,6 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-2.dds
-- name: remastered\obj\P_EX100_KH1F.mdlx\-0.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.mdlx\-0.dds
-- name: remastered\obj\P_EX100_KH1F.mdlx\-1.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.mdlx\-1.dds
-- name: remastered\obj\P_EX100_KH1F.mdlx\-2.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.mdlx\-2.dds
-- name: remastered\obj\P_EX100_KH1F.mdlx\-3.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.mdlx\-3.dds
-- name: remastered\obj\P_EX100_KH1F.mdlx\-5.dds
-  method: copy
-  platform: pc
-  package: kh2_sixth
-  source:
-  - name: remastered\obj\P_EX100_KH1F.mdlx\-5.dds
 - name: remastered\obj\P_EX100_LAST.mdlx\-0.dds
   method: copy
   platform: pc
