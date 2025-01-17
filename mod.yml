@@ -646,19 +646,19 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_BTLF.mdlx\-6.dds
-- name: remastered\obj\P_EX100_HTLF.BTL.mdlx\-0.dds
+- name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-0.dds
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100_HTLF.BTL.mdlx\-0.dds
-- name: remastered\obj\P_EX100_HTLF.BTL.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-0.dds
+- name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-1.dds
   method: copy
   platform: pc
   package: kh2_sixth
   source:
-  - name: remastered\obj\P_EX100_HTLF.BTL.mdlx\-1.dds
-- name: remastered\obj\P_EX100_HTLF.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-1.dds
+- name: remastered\obj\P_EX100_HTLF_mdlx\-0.dds
   method: copy
   platform: pc
   package: kh2_sixth
