@@ -706,6 +706,12 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_KH1F.mdlx\-3.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx\-4.dds
 - name: remastered\obj\P_EX100_KH1F.mdlx\-5.dds
   method: copy
   platform: pc
@@ -958,3 +964,4 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_ULTF.mdlx\-6.dds
+
